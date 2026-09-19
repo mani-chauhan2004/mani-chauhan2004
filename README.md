@@ -13,10 +13,11 @@ Final-year B.Tech Computer Science graduate with a focus on backend engineering 
 - **[Sweet Rot](#)** — Unity horror game with a full narrative design bible (25-day script, 4 endings, 8 characters)
 - **[EODHD Proxy API](#)** — Async FastAPI/Redis proxy for financial market data
 
-#### Tech stack
-
 **Languages**
+
 ![Skills](https://skillicons.dev/icons?i=python,cpp,js,csharp,html,css,ts,c)
+
+#### Tech stack
 
 **Backend:** Python, FastAPI, Redis, WebSockets, SQL
 **Frontend:** React, TradingView Charting Library
