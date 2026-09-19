@@ -14,6 +14,10 @@ Final-year B.Tech Computer Science graduate with a focus on backend engineering 
 - **[EODHD Proxy API](#)** — Async FastAPI/Redis proxy for financial market data
 
 #### Tech stack
+
+**Languages**
+![Skills](https://skillicons.dev/icons?i=python,cpp,js,csharp,html,css,ts,c)
+
 **Backend:** Python, FastAPI, Redis, WebSockets, SQL
 **Frontend:** React, TradingView Charting Library
 **Game dev:** Unity, Blender, C#
