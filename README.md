@@ -25,4 +25,4 @@ Final-year B.Tech Computer Science graduate with a focus on backend engineering 
 **Tools:** Git, Dune Analytics, Nginx
 
 #### Contact
-[LinkedIn](linkedin.com/in/manaswee-chauhan-763154277) · chauhan.mani1070@gmail.com
+[LinkedIn](https://linkedin.com/in/manaswee-chauhan-763154277) · chauhan.mani1070@gmail.com
